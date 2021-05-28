@@ -12,9 +12,9 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
 
 ## Lessons and Schedules
 
-- #### Day 1 : Introduction to Github , VSCode and Python.
+- #### Day 1 : Introduction to Python, Visual Studio Code, and Python.
   
-  An introductiion to the Python programming language, the Visual Studio Code editor and GitHub.
+  An introductiion to the Python programming language, virtual environments, the Visual Studio Code editor and GitHub.
 - #### Day 2 : Crash course in Python
 
   Quick discussion on the basic operations, conditional statements, loop statement, list, methods and OOP in Python.
@@ -23,7 +23,7 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
   An introduction on the basics of PyGame and how to get started. In this section you will learn other tools to begin your game creation journey.
 - #### Day 4 : Object movements and event handling
 
-  Learn the basics of moving objects on the game screen as well as handling inputs from the user via mouse and keyboard.
+  Learn the basics of moving objects on the game screen as well as handling inputs from the user via the mouse and the keyboard.
 - #### Day 5 : Understanding basic game essentials
 
   Learn the concepts of collision detection and game architecture. 
