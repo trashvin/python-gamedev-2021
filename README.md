@@ -45,4 +45,6 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
 
   Start distributing your game. Learn how to package your games for easy installation and distribution.
   
-  Follow me on <img title="a title" alt="twitter" src="https://i.imgur.com/tXSoThF.png"> : [@m3lles](https://twitter.com/m3lles)
+  <hr/>
+  
+  Follow me on <img title="a title" alt="twitter" src="https://i.imgur.com/JLLlB5S.png"> : [@m3lles](https://twitter.com/m3lles)
