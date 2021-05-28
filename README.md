@@ -5,7 +5,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Lessons and Schedules
 
-- Day 1 : Crash course in Git, Github, and Python.
+- Day 1 : Introduction to Github , VSCode and Python.
+  An introductiion to the Python programming language, the Visual Studio Code editor and GitHub.
 - Day 2 : Crash course in Python
 - Day 3 : Introduction to PyGame
 - Day 4 : Object movements and event handling
