@@ -1,6 +1,14 @@
 # 2D Retro Game Development Using Python + PyGame
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Skill up your programming skills with a walk down the memory lane. Learn how to create a retro 2D game using Python and PyGame.  
+
+## Must Haves
+
+- Laptop or computer powerful enough to run Visual Studio Code, and then some.
+- Internet connection, of course.
+- GitHub account. Its free!
+- The will spend extra time and effort to learn
+- Programming knowledge ? Zero :) 
 
 ## Lessons and Schedules
 
