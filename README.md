@@ -38,7 +38,7 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
   Create game objects by implementing object oriented programming.
 - #### Day 7 : Implementing game logics and sounds
 
-  Start adding logic in your game and make your game alive by adding sound effects.
+  Start incorporating logic in your game and make your game alive by adding sound effects.
 - #### Day 8 : Implementing game levels and special actions
 
   Spice up your game by adding different levels and special actions.
