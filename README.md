@@ -1,4 +1,4 @@
-# 2D Retro Game Development Using Python + PyGame
+# Retro 2D Game Development Using Python + PyGame
 
 Skill up your programming skills with a walk down the memory lane. Learn how to create a retro 2D game using Python and PyGame.  
 
