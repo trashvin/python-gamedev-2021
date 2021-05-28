@@ -51,5 +51,5 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
   
 <hr/>
 
-##
+
 Follow me on <img title="a title" alt="twitter" src="https://i.imgur.com/JLLlB5S.png"> : [@m3lles](https://twitter.com/m3lles)
