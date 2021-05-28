@@ -6,8 +6,10 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
 
 - Laptop or computer powerful enough to run Visual Studio Code, and then some.
 - Internet connection, of course.
-- GitHub account. Its free!
-- The will spend extra time and effort to learn
+- GitHub account. Its free! Here's a link to [GitHub](https://www.github.com) to create one.
+- Python. Download the latest version [HERE](https://www.python.org/downloads/)
+- Visual Studio Code. Dowload the latest version [HERE](https://code.visualstudio.com/Download)
+- The will to spend extra time and effort to learn
 - Programming knowledge ? Zero :) 
 
 ## Lessons and Schedules
