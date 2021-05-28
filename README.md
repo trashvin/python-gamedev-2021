@@ -18,7 +18,7 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
 
 ## Lessons and Schedules
 
-- #### Day 1 : Introduction to Python, Visual Studio Code, and Python.
+- #### Day 1 : Introduction to Python, Visual Studio Code, and GitHub.
   
   An introductiion to the Python programming language, virtual environments, the Visual Studio Code editor and GitHub.
 - #### Day 2 : Crash course in Python
