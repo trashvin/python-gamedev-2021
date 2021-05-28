@@ -2,6 +2,8 @@
 
 Skill up your programming skills with a walk down the memory lane. Learn how to create a retro 2D game using Python and PyGame.  
 
+<hr/>
+
 ## Must Haves
 
 - Laptop or computer powerful enough to run Visual Studio Code, and then some.
@@ -11,6 +13,8 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
 - Visual Studio Code. Dowload the latest version [HERE](https://code.visualstudio.com/Download)
 - The will to spend extra time and effort to learn
 - Programming knowledge ? Zero :) 
+
+<hr/>
 
 ## Lessons and Schedules
 
