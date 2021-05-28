@@ -47,7 +47,7 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
   Game data is everything. Learn how to store game data, record game logs and use cloud storage for tracking scores from your users accross the world.
 - #### Day 10: Finalizing and packaging your game.
 
-  Start distributing your game. Learn how to package your games for easy installation and distribution.
+  Start distributing your game. Learn how to package your games for easy installation and distribution. Bonus lesson : adding CI/CD to your GitHub repo.
   
   <hr/>
   
