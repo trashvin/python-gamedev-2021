@@ -48,7 +48,12 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
 - #### Day 10: Finalizing and packaging your game.
 
   Start distributing your game. Learn how to package your games for easy installation and distribution. Bonus lesson : adding CI/CD to your GitHub repo.
-  
+
+## Setting up your dev environment.
+
+We will be using virtual environment.  
+
+
 <hr/>
 
 
