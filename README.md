@@ -51,7 +51,7 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
 
 ## Setting up your dev environment.
 
-We will be using virtual environment.  
+We will be using virtual environment.  The instruction  is in this [LINK](https://github.com/trashvin/python-gamedev-2021/blob/main/lesson/how-to.md)
 
 
 <hr/>
