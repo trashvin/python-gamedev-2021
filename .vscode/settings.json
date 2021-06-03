@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "D:\\Dev\\python-gamedev-2021\\.venv\\Scripts\\python.exe"
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
