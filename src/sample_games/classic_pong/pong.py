@@ -48,7 +48,7 @@ mid_line.fill(RED)
 
 direction_1 = 1
 direction_2 = 1
-friction = 4  # the higher the faster
+anti_friction = 7  # the higher the faster
 fps_clock = pygame.time.Clock()
 
 # title
@@ -100,8 +100,8 @@ while True:
     if ball_rect.colliderect(paddle_2_rect):
         direction_1 = -1;
     #print(score_1, score_2)
-    dir_x = 1 * direction_1 * friction
-    dir_y = 1 * direction_2 * friction
+    dir_x = 1 * direction_1 * anti_friction
+    dir_y = 1 * direction_2 * anti_friction
     ball_rect = ball_rect.move((dir_x, dir_y))
 
     score_a = title_font.render(str(score_1),1, WHITE)
