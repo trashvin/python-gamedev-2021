@@ -50,6 +50,39 @@ _you should notice the nameof the virtual environment being added on the command
 - check your account,you should be able to see the forked repo
 
 ### 05 clone your own python-gamedev-2021 repo
+- go to your new repo
+- click on the "code" button and copy the repo's url
+- got to the folder in your local machine where your codes will reside.
+- clone your repo using the [git clone] command
+```
+git clone https://github.com/trashvin/python-gamedev-2021.git
+```
+_git will create a new folder and download all files to your local machine_
+
+### 06 make your first changes, commit , and push
+- in the command line, go to the directory of the new repo
+- start Visual Studio Code by typing the following command
+```
+code .
+```
+- go ahead and edit README.md, delete the last line and replace it with your name
+- go back to the terminal and type the following
+```
+git status
+```
+_notice the modified file entry_
+- go ahead and commit your changes
+```
+git commit -m "initial change"
+```
+- once commited, you can now push your changes to the main /remote repo
+```
+git push
+```
+```
+!NOTE : if you have another location where your repo is cloned, make sure to run [git pull] before doing any changes
+```
+
 
 
 
