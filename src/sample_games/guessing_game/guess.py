@@ -9,6 +9,7 @@ tries_per_game =[]
 tries = 1
 another_game ='Y'
 print("guess a number from 1 to 99")
+5
 
 number = random.randint(1,99)
 
