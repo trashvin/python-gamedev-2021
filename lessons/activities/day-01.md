@@ -49,7 +49,7 @@ _you should notice the nameof the virtual environment being added on the command
 - access the repo and clickthe fork button
 - check your account,you should be able to see the forked repo
 
-### 05 clobe your own python-gamedev-2021 repo
+### 05 clone your own python-gamedev-2021 repo
 
 
 
