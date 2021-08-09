@@ -14,7 +14,7 @@ Skill up your programming skills with a walk down the memory lane. Learn how to 
 - Python. Download the latest version [HERE](https://www.python.org/downloads/)
 - Visual Studio Code. Dowload the latest version [HERE](https://code.visualstudio.com/Download)
 - The will to spend extra time and effort to learn
-- Programming knowledge ? Zero :) 
+- Programming knowledge ? Zero :) Yes!
 
 <hr/>
 
