@@ -13,7 +13,7 @@ screen = pygame.display.set_mode((800,600))
 title_font = pygame.font.SysFont("calibri", 20)
 title = title_font.render("**** BOUNCE ****",1,BLUE)
 
-text_font = pygame.font.Font("D:\Projects RSX-Labs\python-gamedev-2021\codes\lecture_codes\day_04\crackman.ttf", 40)
+text_font = pygame.font.Font(".\\codes\\assets\\fonts\\crackman.ttf", 40)
 text = text_font.render("Hello, World!",1, PINK)
 
 text_rect = text.get_rect()
