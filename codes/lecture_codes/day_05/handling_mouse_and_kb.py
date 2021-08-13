@@ -17,6 +17,7 @@ screen = pygame.display.set_mode((800,600))
 """
 hide the mouse pointer
 """
+pygame.mouse.set_visible(False)
 
 title_font = pygame.font.SysFont("calibri", 20)
 title = title_font.render("**** CONTROLLING BALL WITH MOUSE AND KB****",1,BLUE)
@@ -27,7 +28,7 @@ image = pygame.transform.scale(image,(100,100))
 text_rect = image.get_rect()
 text_rect = text_rect.move((100,100))
 
-bounce_sound = pygame.mixer.Sound(".\\codes\\assets\\sounds\\bubble.wav")
+bounce_sound = pygame.mixer.Sound(".\\codes\\assets\\sounds\\bounce.wav")
 
 direction_x = 1
 direction_y = 1
@@ -43,6 +44,13 @@ while not done:
     for event in events:
         if event.type == pygame.QUIT:
             done = True
+        elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_DOWN:
+                print("DOWN")
+            if event.key == pygame.K_UP:
+                print("UP")
+            
+
         """
         add kb event to handle UP and DOWN key
         """
@@ -50,6 +58,10 @@ while not done:
     """
     get mouse position
     """
+    mouse_xy = pygame.mouse.get_pos()
+    text_rect.center = mouse_xy
+   
+
     
     """
     set the text_rect center = mouse position

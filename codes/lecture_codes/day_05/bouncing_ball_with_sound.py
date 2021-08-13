@@ -12,6 +12,9 @@ BLUE=(100,149,237)
 """
 create a function to play sound
 """
+def play_bounce_sound():
+    pygame.mixer.music.stop()
+    pygame.mixer.Sound.play(bounce_sound)
 
 screen = pygame.display.set_mode((800,600))
 
@@ -21,6 +24,8 @@ title = title_font.render("**** BOUNCING BALL ****",1,BLUE)
 """
 load the ball image and set size to 100,100
 """
+image = pygame.image.load(".\\codes\\assets\\images\\beach_ball.png")
+image = pygame.transform.scale(image, (100,100))
 
 text_rect = image.get_rect()
 text_rect = text_rect.move((100,100))
@@ -28,6 +33,7 @@ text_rect = text_rect.move((100,100))
 """
 instantiate the sound bounce.wav
 """
+bounce_sound = pygame.mixer.Sound(".\\codes\\assets\\sounds\\bounce.wav")
 
 direction_x = 1
 direction_y = 1
@@ -49,6 +55,7 @@ while not done:
         """
         play a sound when the ball bounce
         """
+        play_bounce_sound()
         
     
     if text_rect.right > screen.get_size()[0]:
@@ -56,18 +63,21 @@ while not done:
         """
         play a sound when the ball bounce
         """
+        play_bounce_sound()
 
     if text_rect.top < 0:
         direction_y = 1
         """
         play a sound when the ball bounce
         """
+        play_bounce_sound()
 
     if text_rect.bottom > screen.get_size()[1]:
         direction_y = -1
         """
         play a sound when the ball bounce
         """
+        play_bounce_sound()
     
     text_rect = text_rect.move((direction_x * ball_speed   , direction_y * ball_speed))
 
@@ -75,6 +85,7 @@ while not done:
     """
     blit the ball image
     """
+    screen.blit(image, text_rect )
     screen.blit(title, (5,5))
     pygame.display.flip()
 
