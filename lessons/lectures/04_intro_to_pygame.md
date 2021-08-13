@@ -55,5 +55,5 @@ The basic concept of moving images:
 Note : By rapidly erasing the image and redrawing it in a new place, we achieve the "illusion" of movement.
 
 
-TEST TEST
+TEST TEST TEST TEST 
 
